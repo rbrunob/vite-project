@@ -27,6 +27,14 @@ h1 {
   line-height: 1.1;
 }
 
+.m-md {
+  margin: 0 0 0 20px;
+}
+
+.itemList {
+  list-style: none;
+}
+
 @media (prefers-color-scheme: light) {
   :root {
     color: #213547;
