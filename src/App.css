@@ -4,3 +4,21 @@
   padding: 2rem;
   text-align: center;
 }
+
+.title {
+  font-size: 32px;
+  text-align: center;
+  width: 100%;
+  height: auto;
+  color: #fff;
+  letter-spacing: 0.1rem;
+  margin: 100px 0 0 0;
+}
+
+.red_title {
+  color: rgb(212, 85, 85);
+}
+
+.blue_title {
+  color: rgb(74, 74, 231);
+}
